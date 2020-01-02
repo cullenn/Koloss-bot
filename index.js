@@ -19,7 +19,7 @@ bot.on("ready", () => {
 
 bot.on("message", msg => {
   if (channels.includes(msg.channel.name)) {
-    msg.react("662386640185983027");
-    msg.react("662386640253091850");
+    msg.react("662386640185983027"); // Greentick
+    msg.react("662386640253091850"); // Redtick
   }
 });
