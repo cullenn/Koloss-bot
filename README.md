@@ -2,6 +2,8 @@
 
 Koloss-bot is a basic discord bot that reacts to every message in specified channels with set emojis. This bot was made by following [this guide](https://www.sitepoint.com/discord-bot-node-js/) and you'll probably want to follow the start of that too if you're looking to use this for your own bot.
 
+![Demo gif](demo/demo.gif)
+
 ## Installation
 
 Create a .env file at the root with your bot's token.
